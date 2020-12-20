@@ -22,11 +22,11 @@
       "triggerR": "background-color:#141c26;color:gray",
       "center": "background-color:#263487;color:blue",
       "right": "background-color:#263487;color:blue",
-      "left": "background-color:#263487;color:blue",
+      "left": "background-color:#263487;color:black",
       "up": "background-color:#263487;color:blue",
       "down": "background-color:#263487;color:blue",
-      "aBtn": "background-color:#db1414;color:red",
-      "bBtn": "background-color:#137544;color:#0f5c35",
+      "aBtn": "background-color:#db1414;color:#820c0c",
+      "bBtn": "background-color:#137544;color:#0a4025",
       "startBtn": "background-color:#141c26;color:gray",
       "select": "background-color:#141c26;color:gray"
     }
