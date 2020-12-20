@@ -1,0 +1,26 @@
+{
+  "name": "Green",
+  "logo": "",
+  "author": "Jasper",
+  "description": "Just like the real green GBC",
+  "styles": [
+    {
+      "MDicon": "background-color:#a9f700;color:gray",
+      "emulatorBackground": "background-color: #a9f700",
+      "gradient": "background-color: #a9f700",
+      "iOSoutOfFocus": "color:#929292;",
+      "iOStoggleHead": "",
+      "triggerL": "background-color:#141c26;color:gray",
+      "triggerR": "background-color:#141c26;color:gray",
+      "center": "background-color:#141c26;color:gray",
+      "right": "background-color:#141c26;color:gray",
+      "left": "background-color:#141c26;color:gray",
+      "up": "background-color:#141c26;color:gray",
+      "down": "background-color:#141c26;color:gray",
+      "aBtn": "background-color:#141c26;color:#000000;",
+      "bBtn": "background-color:#141c26;color:#000000",
+      "startBtn": "background-color:#141c26;color:gray",
+      "select": "background-color:#141c26;color:gray"
+    }
+  ]
+}
