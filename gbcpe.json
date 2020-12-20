@@ -13,7 +13,7 @@
       "iOSoutOfFocus": "color:#929292;",
       "iOSinFocus": "color:#263487;",
       "MDtoggleHead": "background:#263487;",
-      "MDtoggleBody": "background:rgba(38,53,135,0.5);",
+      "MDtoggleBody": "background:rgba(38,53,135,0.9);",
       "iOStoggleHead": "",
       "iOStoggleBody": "background:#263487;",
       "fab": "color:white;background:#263487!important",
