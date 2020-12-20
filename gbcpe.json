@@ -1,1 +1,38 @@
-{"name":"PikachuEdition","logo":"","author":"Jasper","description":"JustlikeGBCPikachuEdition","styles":[{"header":"","label":"","button":"","alert":"","containerBackground":"","cell":"","cellChevron":"","toolbar":"","gradient":"","emulatorBackground":"background-color:
+{
+  "name": "Pikachu Edition",
+  "logo": "",
+  "author": "Jasper",
+  "description": "Just like GBC Pikachu Edition",
+  "styles": [
+    {
+      "cell": "background-color:#243447!important;color:white!important",
+      "cellChevron": "color:#e0e0e0",
+      "containerBackground": "background-color:#1b2836!important;color:#e0e0e0",
+      "toolbar": "background-color:#243447;color:white!important",
+      "emulatorBackground": "background-image:none;background:#243447!important",
+      "gradient": "background-image:none;background:#141c26!important",
+      "iOSoutOfFocus": "color:#929292;",
+      "MDoutOfFocus": "",
+      "iOSinFocus": "color:#1ba1f2;",
+      "MDinFocus": "",
+      "MDtoggleHead": "background:#1ba1f2;",
+      "MDtoggleBody": "background:rgba(27,161,242,0.5);",
+      "iOStoggleHead": "",
+      "iOStoggleBody": "background:#1ba1f2;",
+      "fab": "color:white;background:#1ba1f2!important",
+      "tint": "color:#1ba1f2;",
+      "label": "color:white!important",
+      "triggerL": "background-color:#141c26;color:gray",
+      "triggerR": "background-color:#141c26;color:gray",
+      "center": "background-color:#263487;color:blue",
+      "right": "background-color:#263487;color:blue",
+      "left": "background-color:#263487;color:blue",
+      "up": "background-color:#263487;color:blue",
+      "down": "background-color:#263487;color:blue",
+      "aBtn": "background-color:#db1414;color:red",
+      "bBtn": "background-color:#137544;color:green",
+      "startBtn": "background-color:#141c26;color:gray",
+      "select": "background-color:#141c26;color:gray"
+    }
+  ]
+}
