@@ -5,7 +5,6 @@
   "description": "Just like GBC Pikachu Edition",
   "styles": [
     {
-      "iOSicon": "color:#263487;opacity:1",
       "MDicon": "background-color:#f2d22e;color:gray",
       "navbar": "background:#263487!important",
       "emulatorBackground": "background-color: #f2d22e",
@@ -25,7 +24,7 @@
       "left": "background-color:#263487;color:black",
       "up": "background-color:#263487;color:blue",
       "down": "background-color:#263487;color:blue",
-      "aBtn": "background-color:#db1414;color:#820c0c;",
+      "aBtn": "background-color:#db1414;color:#000000;",
       "bBtn": "background-color:#137544;color:#0a4025",
       "startBtn": "background-color:#141c26;color:gray",
       "select": "background-color:#141c26;color:gray"
